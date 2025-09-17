@@ -1,7 +1,7 @@
 # Hi there! Just a quick announcement: I’m making some changes to the dataset and the EDA. I’ll be uploading the updated version shortly.
 # PS – I’m having so much fun letting my imagination run wild 😁. You’ll see it when I share the updated dataset, EDA, README.md, and the other notebooks I’ll eventually create for data cleaning, feature engineering, and building ML models. I hope you’ll enjoy this project as much as I have! ☺️☺️
 
-# Thank you all for your patience, understanding and support.
+# Thank you all for your patience, understanding and support. 🙏🏻🫶🏻
 
 # - Kavya :)
 
